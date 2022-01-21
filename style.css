@@ -1,0 +1,80 @@
+.shadow-light {
+    box-shadow: 0px 0px 16px 4px rgba(0, 0, 0, 0.25) ;
+}
+
+.bg-linear-green {
+    background: linear-gradient(99.16deg, rgba(20, 156, 130, 0.28) 2.1%, rgba(78, 169, 152, 0.24) 44.93%, rgba(196, 196, 196, 0.44) 98.47%);
+}
+
+.py-256 {
+    padding-top: 200px;
+    padding-bottom: 256px;
+}
+
+.px-72 {
+    padding-left: 72px;
+    padding-right: 72px;
+}
+
+.wh-48 {
+    width: 3rem;
+    height: 3rem;
+}
+
+.bg-blue-light {
+    background: rgba(192, 228, 221, 1);
+
+}
+
+.color-social-media{
+    color: #007A22;
+}
+
+.w-15 {
+    width: 15% !important;
+}
+
+.image-news {
+    position: relative;
+    height: 512px;
+}
+.index-initial {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: initial;
+    height: 512px;
+}
+.index-1 {
+    background: rgba(0, 0, 0, 0.65);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 512px;
+    z-index: 1;
+}
+
+
+.index-2 {
+    z-index: 2;
+    text-align: center;
+}
+
+.btn-green{
+    background: #6CD489;
+    
+
+}
+.bg-green-light {
+    background: #149C82 ;
+}
+
+.bg-radial{
+    background: radial-gradient(50% 50% at 50% 50%, #4EA897 48.38%, rgba(78, 169, 152, 0) 100%);
+}
+
+.bg-smk{
+    background-image: url("assets/bg_img.jpg") ;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
